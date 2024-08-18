@@ -1,6 +1,6 @@
 # LLM Serving Cookbook 🧪
 
-Production recipes for running open-source LLMs on Kubernetes. vLLM-first, vendor-neutral, K8s-native.
+Production recipes for running open-source LLMs on Kubernetes. vLLM-first, model-agnostic, K8s-native.
 
 **Maintained by [PYXIS3](https://pyxis3.ai)** — model-agnostic LLM serving infrastructure.
 
