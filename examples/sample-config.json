@@ -1,0 +1,10 @@
+{
+  "repository": "pyxis3-ai/llm-serving-cookbook",
+  "environment": "local",
+  "logLevel": "info",
+  "checks": [
+    "documentation",
+    "configuration",
+    "release-notes"
+  ]
+}
