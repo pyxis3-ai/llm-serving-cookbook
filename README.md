@@ -50,3 +50,7 @@ PRs welcome. Format:
 ## License
 
 [Apache-2.0](LICENSE)
+
+## Maintenance
+
+Supporting documentation lives in `docs/`, example inputs live in `examples/`, and lightweight validation notes live in `tests/smoke/`.
